@@ -14,7 +14,6 @@ const VideoPinSection = () => {
           trigger: ".vd-pin-section",
           start: "-15% top",
           end: "200% top",
-          markers: true,
           scrub: 1.5,
           pin: true,
         },
