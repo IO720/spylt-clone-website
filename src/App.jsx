@@ -1,4 +1,4 @@
-import NavBar from "./components/navbar";
+import NavBar from "./components/Navbar";
 import HeroSection from "./sections/HeroSection";
 import { ScrollSmoother, ScrollTrigger } from "gsap/all";
 import gsap from "gsap";
